@@ -13,8 +13,8 @@ topologyM2.py is a library that yields the topology laid out for experiments in 
 Jupyter notebook is required to run the experiments.
 
 ### Python packages
-math
-random
-time
-NumPy
+math\
+random\
+time\
+NumPy\
 matplotlib
